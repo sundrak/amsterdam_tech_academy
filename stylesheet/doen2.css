@@ -1,0 +1,109 @@
+
+.table_1 {
+    width: 950px;
+    height: 500px;
+    border-color: black;
+    border: 1px solid;
+
+}
+#appel {
+    width: 18%;
+    height: 15%;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: green;
+    border-right-style: dotted;
+    border-right-width: 9px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: green;
+    border-left-style: dotted;
+    border-left-width: 9px;
+
+    font-size: larger;
+    text-align: center;
+
+}
+#mango {
+    width: 82%;
+    border-width: 25px;
+    border-color: red;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+
+    font-size: medium;
+    
+}
+#one {
+    height: 60%;
+    border: 1px solid;
+
+    font-size: large;
+    text-align: center;
+}
+#two {
+    width: 35%;
+    border-width: 5px;
+    border-color: magenta;
+    border-style: solid;
+    border-top-left-radius: 70px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 70px;
+
+    /*font-size: 10vw; */
+    font-size: 1200%;
+    text-align: center;
+}
+#tree {
+    width: 65%;
+    background-color: black;
+
+    /*font-size: 10vw; */
+    font-size: 1200%;
+    text-align: center;
+    color: white;
+}
+#tree:hover {
+    color:black;
+    background-color: white;
+}
+
+#amsterdam {
+    height: 20%;
+    border-top-color: purple;
+    border-top-style: dashed;
+    border-top-width: 15px;
+    border-bottom-color: purple;
+    border-bottom-style: dashed;
+    border-bottom-width: 15px;
+
+    font-size: larger;
+    text-align: center;
+
+}
+#utrecht {
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: green;
+    border-right-style: dotted;
+    border-right-width: 9px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: green;
+    border-left-style: dotted;
+    border-left-width: 9px;
+
+    font-size: large;
+    text-align: center;
+
+}
+#groningen {
+    width: 325px;
+    border-color: red;
+    border-style: dotted;
+    border-width: 25px;
+
+    font-size: large;
+    text-align: center;
+}
